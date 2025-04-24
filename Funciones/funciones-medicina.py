@@ -1,3 +1,7 @@
+#MIANO GASTON
+#DIV 117 TM
+#FUNCIONES EJERCICIO MEDICINA
+
 # def cargar_consulta(nombre_paciente: str, peso: float, 
 # altura: float, temperatura: float,
 # presion_sistolica: float, 
