@@ -1,3 +1,7 @@
+#MIANO GASTON
+#DIV 117 TM
+#EJERCICIO FUNCIONES
+
 def validar_Cadena_Numeros(numero:str):
     """
     Valida que una cadena de caracteres sea un número.
